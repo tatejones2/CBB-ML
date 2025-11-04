@@ -32,7 +32,7 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
-cbb-ml-credentials.json
+cbb-ml-clean.json
 
 # Models
 models/*.pkl
